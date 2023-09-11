@@ -1,0 +1,11 @@
+### Python template
+
+# Flask stuff:
+instance/
+
+# Environments
+venv/
+
+# PyCharm
+.idea/
+
